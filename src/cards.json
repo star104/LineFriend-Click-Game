@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "image": "/assets/images/image1.png",
+    "name": "LineFriend1"
+},
+{
+    "id": 2,
+    "image": "/assets/images/image2.png",
+    "name": "LineFriend2"
+},  {
+    "id": 3,
+    "image": "/assets/images/image3.jpg",
+    "name": "LineFriend3"
+},  {
+    "id": 4,
+    "image": "/assets/images/image4.png",
+    "name": "LineFriend4"
+},  {
+    "id": 5,
+    "image": "/assets/images/image5.png",
+    "name": "LineFriend5"
+},  {
+    "id": 6,
+    "image": "/assets/images/image6.png",
+    "name": "LineFriend6"
+},  {
+    "id": 7,
+    "image": "/assets/images/image7.png",
+    "name": "LineFriend7"
+},  {
+    "id": 8,
+    "image": "/assets/images/image8.png",
+    "name": "LineFriend8"
+},  {
+    "id": 9,
+    "image": "/assets/images/image9.jpg",
+    "name": "LineFriend9"
+}
+
+
+]

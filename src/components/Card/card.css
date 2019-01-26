@@ -1,0 +1,16 @@
+.line-card {
+  height: 225px;
+  width: 225px;
+  text-align: center;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+}
+
+.line-card:hover {
+  
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.chi-card:active {
+  transform: translate(10px, 10px);
+}
